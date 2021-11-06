@@ -1,0 +1,2 @@
+HITRUST Shared Responsibility Matrix for Microsoft Azure is available for download:
+https://go.hitrustalliance.net/SR-Custom-Matrix-Microsoft-Azure
